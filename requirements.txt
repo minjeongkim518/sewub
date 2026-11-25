@@ -2,7 +2,7 @@
 annotated-types==0.8.0
 anyio==4.16.0
 attrs==26.1.0
-
+audioop-lts
 certifi==2026.10.23
 charset-normalizer==3.5.2
 click==8.1.8
@@ -26,7 +26,6 @@ pandas==3.1.1
 pillow==13.0.0
 protobuf==7.36.2
 pyarrow==26.0.1
-
 pydantic==2.14.3
 pydantic_core==2.50.4
 pydeck==0.9.3
